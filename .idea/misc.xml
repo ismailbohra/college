@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/drawable-v24/curved.xml" value="0.111" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/drawable-v24/left_rect.xml" value="0.111" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/drawable-v24/right_rect.xml" value="0.111" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/drawable-v24/round_buttons.xml" value="0.111" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/drawable-v24/round_rectangle.xml" value="0.111" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/drawable/ic_baseline_batch_prediction_24.xml" value="0.1" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/drawable/shape_of_search_view.xml" value="0.1" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/layout/activity_login.xml" value="0.1331521739130435" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/layout/activity_main.xml" value="0.14634146341463414" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/layout/fragment_about_app.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/layout/fragment_club.xml" value="0.1331521739130435" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/layout/fragment_news.xml" value="0.1" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/layout/fragment_notification.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/layout/fragment_search.xml" value="0.3276699029126214" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/layout/fragment_signin.xml" value="0.1331521739130435" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/layout/fragment_signup.xml" value="0.1331521739130435" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/layout/home_screen.xml" value="0.2" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/layout/horizontal_recyclerview.xml" value="0.536" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/layout/layout.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/layout/nav_drawer_background.xml" value="0.4" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/layout/recycler_listview_layout.xml" value="0.2" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/menu/nav_drawer_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/menu/nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Ismail Bohra/AndroidStudioProjects/College2/app/src/main/res/menu/search_menu.xml" value="0.20833333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

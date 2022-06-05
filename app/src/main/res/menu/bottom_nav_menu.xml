@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/fragmentHome"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:title="News"
+        android:icon="@drawable/ic_news"
+        android:id="@+id/fragmentNews"/>
+    <item
+        android:title="Clubs"
+        android:icon="@drawable/ic_club"
+        android:id="@+id/fragmentClub"/>
+    <item
+        android:title="Profile"
+        android:icon="@drawable/ic_person"
+        android:id="@+id/fragmentProfile"/>
+</menu>

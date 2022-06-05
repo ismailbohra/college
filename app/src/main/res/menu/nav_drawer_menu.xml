@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/grp1">
+        <item android:title="Profile"
+            android:icon="@drawable/ic_person"
+            android:id="@+id/fragmentProfile"/>
+    </group>
+    <group android:id="@+id/grp2">
+        <item android:id="@+id/fragmentEvent"
+            android:icon="@drawable/ic_event"
+            android:title="Event"/>
+        <item android:icon="@drawable/ic_club"
+            android:title="Club"
+            android:id="@+id/fragmentClub"/>
+        <item android:title="News"
+            android:icon="@drawable/ic_news"
+            android:id="@+id/fragmentNews"/>
+        <item android:title="Announcement"
+            android:icon="@drawable/ic_campaign"
+            android:id="@+id/fragmentAnnouncement"/>
+        <item android:title="Complain"
+            android:icon="@drawable/ic_complain"
+            android:id="@+id/fragmentComplain"/>
+    </group>
+
+    <group android:id="@+id/grp3">
+        <item android:title="Settings"
+            android:id="@+id/fragmentSettings"
+            android:icon="@drawable/ic_setting"/>
+
+        <item android:title="About App"
+            android:icon="@drawable/ic_aboutapp"
+            android:id="@+id/fragmentAboutApp"/>
+    </group>
+</menu>
